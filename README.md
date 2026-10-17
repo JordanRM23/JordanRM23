@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Michael, y esto son mis proyectos  👋
 
 <!--
 **JordanRM23/JordanRM23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
